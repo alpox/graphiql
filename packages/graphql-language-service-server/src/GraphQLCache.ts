@@ -61,6 +61,7 @@ const codeLoaderConfig: CodeFileLoaderConfig = {
   noSilentErrors: false,
   pluckConfig: {
     skipIndent: true,
+    gqlVueBlock: 'gql',
   },
 };
 

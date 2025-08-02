@@ -45,6 +45,7 @@
     "@babel/parser": "^7.23.6",
     "@babel/types": "^7.23.5",
     "@graphql-tools/code-file-loader": "8.0.3",
+    "@graphql-tools/graphql-tag-pluck": "^8.3.21",
     "cosmiconfig-toml-loader": "^1.0.0",
     "dotenv": "10.0.0",
     "fast-glob": "^3.2.7",
